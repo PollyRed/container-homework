@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/stuoxfrkyob3xbsg?svg=true)](https://ci.appveyor.com/project/PollyRed/container-homework)
